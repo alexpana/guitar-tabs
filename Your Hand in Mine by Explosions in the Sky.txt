@@ -1,7 +1,7 @@
 Your Hand In Mine
 
 By fever003, Han
-Tuning : STANDARD
+Tuning: STANDARD
 
 
 INTRO
@@ -100,7 +100,7 @@ E--9-----0-----7-----7-----------0-----7-----7--------------------------- say ev
 
 
 e-----0-----0-----0-----0----0----------0-----0---0----------------------
-b----c-C---a-a---a-a---a-a----a-0---0-----0-0---0------------------------ this is just a guideline on how to
+b----c-c---a-a---a-a---a-a----a-0---0-----0-0---0------------------------ this is just a guideline on how to
 g---b---b-b---b-b---b-b---b-b--b---a-a---c-c---c-c----------------------- place your fingers for the bridge
 d---------------------------------c---c---------------------------------- section, at least that is how i do it.
 A--------------------------0--------------------------------------------- try it out, might be comfortable for
@@ -152,7 +152,7 @@ E--9-----------7-----------0-----------0-----------9-----------7-----------0----
 
 
 OUTRO
-(hmmm,I really don't know how to show "strum" in the tabs, but if you watch how I play, you will get it the pattern)
+(hmmm, I really don't know how to show "strum" in the tabs, but if you watch how I play, you will get it the pattern)
 
 e-0-------------0----------0-----0---0--0--------0----0-----------0---------------------------------|
 b-0--s--------------7s12--12-s--12--10--9--------0-s--------------0-s----0--------------------------|
@@ -168,5 +168,5 @@ D--2---------------------------------------|             as a harmonic or a note
 A--0---------------------------------------|             I played this part as harmonics with the
 E------------------------------------------|             note on the g string,its up to you!
 
-Please let me know if there are any mistakes or queries by sending me a message at youtube.
-I hope you find this tab useful. Enjoy this baeutifulsong!
+Please let me know if there are any mistakes or queries by sending me a message at YouTube.
+I hope you find this tab useful. Enjoy this beautiful song!
